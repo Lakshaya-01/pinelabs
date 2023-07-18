@@ -1,6 +1,5 @@
 This is my first file
-<<<<<<< HEAD
+
 Modifying file by dev1
-=======
 Modifying file by dev2
 >>>>>>> 60d2d90423a7a20a3c9c1d8536d495b3706b5c64
