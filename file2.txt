@@ -1,4 +1,8 @@
 This is my second file
 Modified content
+<<<<<<< HEAD
 ***
 Modifying by dev1
+
+Modifying by dev2
+>>>>>>> f884002dbbe95fd4ea4f6664418f76ad241f2b0e
